@@ -1,3 +1,29 @@
+# huggingface_skills
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Give your agents the power of the Hugging Face ecosystem
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+让 Agent 获得 Hugging Face 生态能力的技能集。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Hugging Face Skills
 
 Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. The client plugin marketplaces expose the `hf-cli` skill as the bootstrap path for core Hub operations; additional workflow skills can be installed on demand with `hf skills add <skill-name>` or discovered by skill-aware clients over CLI/MCP integrations.
